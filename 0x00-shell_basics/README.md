@@ -1,1 +1,1 @@
-A script file that prints the output statement
+Script runs without error
