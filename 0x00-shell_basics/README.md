@@ -1,1 +1,1 @@
-Script runs without error
+The file displays the absolute working directory
