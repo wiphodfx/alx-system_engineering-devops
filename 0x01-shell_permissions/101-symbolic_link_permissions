@@ -1,2 +1,2 @@
 #!/bin/bash
-chown  vincent:staff _hello
+chown ln -s /0x01-shell_permissions/ vincent:staff _hello
