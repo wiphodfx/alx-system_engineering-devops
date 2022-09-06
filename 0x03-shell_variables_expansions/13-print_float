@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM | tr " " "\n"
+echo $NUM | tr " " "\n" | grep "00"
