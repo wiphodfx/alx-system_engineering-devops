@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BEST="sCHOOL"
+export BEST="SchooL"
