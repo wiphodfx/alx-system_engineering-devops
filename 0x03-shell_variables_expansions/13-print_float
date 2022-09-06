@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM.{00}| tr " " "\n"
+echo $NUM | tr " " "\n"
