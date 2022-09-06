@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM | tr " " "%.2f\n"
+echo | tr " " "%.2f\n" $NUM
