@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+find . -type d -not -name '.' | wc -l
+=======
+find . -type d ! -path . -print | wc -l
+>>>>>>> abcb39dfb4f0bfe1dd9fa959be24ab9cf738464b
