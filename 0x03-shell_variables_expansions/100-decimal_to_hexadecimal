@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $((expr $DECIMAL % 0x16)) | tr " " "\n"
+printf $((expr $DECIMAL0x16)) | tr " " "\n"
