@@ -1,2 +1,2 @@
 #!/bin/bash
-printf if $USER%$VALUE==1
+ls -a | sort
